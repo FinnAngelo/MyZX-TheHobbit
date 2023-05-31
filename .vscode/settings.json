@@ -1,0 +1,11 @@
+{
+    //VSCode
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80
+    ],
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Quiet Light",
+    //"workbench.colorTheme": "Default Light+ Experimental",
+}

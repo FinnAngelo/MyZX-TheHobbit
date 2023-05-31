@@ -25,11 +25,6 @@
                 "codeCoverageEnabled": true
             },
             "startAutomatically": true,
-            "commandsAfterLaunch": [
-                "-logpoint enable",
-                "-assertion enable",
-                "-wpmem enable"
-            ],
             "disassemblerArgs": {
                 "esxdosRst": true
             },
@@ -62,11 +57,6 @@
                 "codeCoverageEnabled": true
             },
             "startAutomatically": true,
-            "commandsAfterLaunch": [
-                "-logpoint enable",
-                "-assertion enable",
-                "-wpmem enable"
-            ],
             "rootFolder": "${workspaceFolder}",
             "load": "src/build/unit_tests.sna",
             "preLaunchTask": "build unit_tests"

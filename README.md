@@ -23,8 +23,14 @@ TL:DR
 
 ### Setup SjASMPlus to run in the workspace
 
-Currently the codespace (i.e. linux docker) setup of the SjASMPlus compiler is a manual task.  
-If you pull this repo to a Windows desktop, it should just run because the Windows exe is already in the tools folder.
+In Codespaces:
+
+- Whoo hoo! the `.devcontainer/devcontainer.json` sets the compiler to just work!
+
+In Windows:
+
+- If you pull this repo to a Windows desktop, it should just run because the Windows exe is already in the tools folder.
+
 
 1. Open the bash terminal and run these step by step:
   ```bash
