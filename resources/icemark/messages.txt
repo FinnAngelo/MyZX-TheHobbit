@@ -1,0 +1,181 @@
+ad21:  but fall and hit your head[0x15]
+ad2e:  but fall and smash your skull
+ad37:  i do not know the word " [0x16]
+ad43:  what ?[0x14]
+ad47: [0x0d] You[0x01].[0x0d] Time passes..[0x15]
+ad54:  i do not know the verb "[0x01][0x01][0x01] "[0x14]
+ad64: [0x01][0x01][0x01][0x00][0x01][0x01][0x01] what ? [0x16]
+ad70:  which[0x01] ? [0x16]
+ad77:  i do not see[0x00] here[0x14]
+ad7e: [0x14]
+ad7f:  i see nothing to.
+ad85: [0x0b] D[0x01][0x01][0x14]
+ad8b: [0x0b] Eat[0x01][0x01][0x00][0x01][0x01][0x01][0x14]
+ad95: You are not carrying it[0x15]
+ad9a: You are carrying[0x15]
+ad9d: [0x13] carrying[0x14]
+ada0:  and it get(s|d|ing|es) swept away
+ada8: [0x07] is too heavy to lift
+adb0: You are carrying too much
+adb5: You are already carrying[0x07][0x15]
+adbb:  to the[0x16]
+adbe: [0x09] is too full
+adc3:  it is dark
+adc7: [0x04] is too small for you to enter
+add2: [0x04] is too full for you to{5} enter[0x15]
+adde:  with one well place(s|d|ing|es) blow you cleave[0x0e] skull
+aded: [0x0c] violent attack almost kill(s|d|ing|es)You[0x15]
+adfe: You give[0x07] a vicious{5} cut in the ribs-[0x0e] strength is failing fast
+ae14:  a nasty slice miss(s|d|ing|es)[0x0e] heart
+ae1e: You slice[0x0e]- hand blood drips slowly to the ground
+ae2f: You give[0x07] a nasty{5} slash in the leg
+ae3c: You hit[0x07] hard on the shoulder-[0x07] stagger(s) and almost fall(s)[0x15]
+ae50:  a fast blow knocks the wind out of[0x07][0x15]
+ae5e:  a fast stroke sweeps[0x07] off[0x0e] feet, but[0x11] on guard in a moment
+ae75: You hit[0x07] with a glancing blow and leave[0x07] momentarily stunned
+ae86: You thrust[0x07] back-[0x07] lose(s)[0x0e] footing but recover(s) quickly
+ae98: You swing broadside at[0x0e] body but at the last moment[0x07] jump(s) aside
+aead: [0x0c][0x03] sweeps past close to[0x0e] ear
+aeb9: You slash at[0x07] but the blow is ineffective
+aec4: You brandish[0x0c][0x03], but[0x11] on guard
+aecf: You swing feebly at[0x07] but miss by a wide margin
+aee0: You seem tired-you stagger but valiantly attempt another blow
+aef4:  but the effort is wasted.[0x0e] defense is too strong
+af03:  you cannot kill with[0x09][0x15]
+af0a:  it sail(s|d|ing|es) across and.
+af11:  lands on the other side
+af1a:  fall(s|d|ing|es) just short of the other side
+af26: [0x0b][0x08] but slide(s|d|ing|es) out again
+af2f:  lands in the boat
+af36:  the boat glides across the river and lands on this side
+af48:  with a lurch the boat glides across the river and[0x02] ngfar
+af5a:  is not in[0x09][0x15]
+af5f: [0x04] is[0x01][0x15]
+af63:  i cannot do that
+af68:  i see nothing here
+af6e:  in[0x02][0x11] on[0x02][0x0d] behind[0x02][0x09] under[0x02][0x05] tied to the[0x16]
+af84: [0x01] there[0x01][0x14]
+af88: [0x04] is carrying[0x04][0x15]
+af8d:  i cannot follow[0x07] from here[0x15]
+af95: You are dead
+af98: You see nothing special here
+afa0: You are in[0x16]
+afa4: You see[0x16]
+afa7: You see :[0x14]
+afad: You say "[0x16]
+afb3:  ".[0x14]
+afb7:  there is[0x00][0x14]
+afbb: [0x00] enter(s|d|ing|es).[0x14]
+afc0: [0x00] appear(s|d|ing|es)[0x15]
+afc4:  visible exits are:[0x16]
+afcb:  you{5} hear a noise
+afd1: [0x09] does not fit this lock
+afdb:  the magic door open(s|d|ing|es).[0x14]
+afe3:  the magic door close(s|d|ing|es).[0x14]
+afeb:  thank you.
+afef:  what's this ?[0x16]
+aff6:  you are do(s|d|ing|es) a great job.
+afff:  hurry up.
+b003:  hello.
+b005:  this was Thrains key.
+b00c: [0x07] fall(s|d|ing|es) down a hole and vanish(s|d|ing|es)[0x15]
+b018: You are not wearing[0x07][0x15]
+b021: [0x09] is already tied[0x15]
+b029:  the vicious warg run around you and howls.
+b036: [0x07] is not tied[0x15]
+b03d:  some spiders start mend(s|d|ing|es) the broken web
+b04a:  what do you expect me to do with this ?[0x16]
+b058:  as soon as you touch the river you fall asleep and gently float away
+b06f:  where's the thief ?[0x16]
+b079:  get us out of this one, thief ![0x16]
+b089:  thorin sit(s|d|ing|es) down and start(s|d|ing|es) sing(s|d|ing|es) about gold.
+b098:  thorin wait.
+b09c: You fall asleep[0x15]
+b0a1:  the spider web is slowly smothering you.
+b0ad:  the small curious key shatter(s|d|ing|es)[0x15]
+b0b7:  an elf sweeps past
+b0bf:  you cannot reach[0x07][0x15]
+b0c5: You are not carrying the bow
+b0cb:  the arrow misses[0x09] by a wide margin
+b0da:  the arrow{5} hits[0x07][0x15]
+b0e2: You are too big
+b0e6: [0x00] evaporate(s|d|ing|es)[0x15]
+b0ea: [0x0c] foul gluttony has{5} killed you[0x15]
+b0f7: You are slowly sink(s|d|ing|es) into the bog
+b101:  the dragon say(s|d|ing|es) " Well thief your cunning has failed you this time. prepare to die " .[0x14]
+b122:  the dragon say(s|d|ing|es) " I may not be able to see you thief but I can still burn you. prepare to die " .[0x14]
+b14a:  in the distance you see the shape of a monstrous dragon flying after you
+b15e:  the dragon descends and in a terrific{5} spout of flames burn(s|d|ing|es) you to a crisp[0x15]
+b174: {5} go[0x01] from[0x00] to{5} get to[0x00][0x16]
+b17f:  someone strangle(s|d|ing|es) you from behind
+b187: [0x07] says " No "[0x14]
+b192:  it cannot be seen, cannot be felt[0x0d] Cannot be hear(s|d|ing|es), cannot be smelt.[0x0d] It lie(s|d|ing|es) behind star(s|d|ing|es) and under hills,[0x0d] And{5} empty holes it fill(s|d|ing|es).[0x0d] It come(s|d|ing|es) first and follow(s|d|ing|es) after,[0x0d] end(s|d|ing|es) life, kill(s|d|ing|es) laughter.[0x16]
+b1dc:  blimey, look at this!! Can yer cook'em?[0x16]
+b1f0:  yer can try, but he wouldn't make above a mouthfull.
+b206:  in a clearing with two stone trolls.
+b211: You are swept forcefully against the portcullis
+b21b:  there is a loud crack and a hole appear(s|d|ing|es) about three feet from the ground.[0x0d] You are stand(s|d|ing|es) in front of the side door to the Lonely Mountain[0x15]
+b248:  the hole vanish(s|d|ing|es)[0x15]
+b24e:  The magic door warn(s|d|ing|es) of elves approach(s|d|ing|es)[0x15]
+b25b:  which is the animal that has four feet in the morn(s|d|ing|es), two at midday and three in the evening ?[0x16]
+b27d:  what has it got in its pocket(s|d|ing|es) ?[0x16]
+b28b:  my birthday present " how did we lose it.[0x0d] my precious "[0x16]
+b2a5: You cannot jump onto[0x07] from here[0x15]
+b2af:  day dawn(s|d|ing|es) |b
+b2b5: You see some pale bulbous eyes star(s|d|ing|es) at You[0x15]
+b2c3:  some thing drop(s|d|ing|es) from above and sting(s|d|ing|es)[0x15]
+b2d0:  you are thrown onto the bank of the long lake
+b2df:      {6} nothing 
+b2e6  start tape then press any key
+b2fb: tape error -     hit any key to restart program[0x15]
+b325: tape error -     hit any key to continue[0x15]
+b348: rewind and prepare tape for     verification  -- then hit any key
+b37d: [0x0d][0x0d][0x0d] a cheering crowd of dwarves, hobbits and elves appear(s|d|ing|es). led by gandalf they carry you off into the sunset, proclaiming you  hero of heroes and master adventurer !!![0x15]
+b3f8:  you have mastered [0x16]
+b406: % of this adventure
+b40b:  you're doing fine[0x15]
+
+b41e:  a trolls door needs a trolls key
+b42e:  elves are good at reading symbols
+b43e:  a window should be no obstacle to a thief with friends[0x15]
+b462:  boats can help. Look carefully
+b46e:  wait around and time your exit carefully
+b47e:  timing is critical, remember barrels float
+b49e:  wait a while[0x15]
+b4a8:  take care to leave at the right time
+b4bc:  a living dragon is deadly, look to bard
+b4d3:  don't stay here too long
+b4e2:  wait for the new day dawning[0x15]
+
+b4f6:  there{5} seem to be some symbols on it but you cannot read them
+
+b507:  you see a fast flowing black river not very wide across
+b519:  a comfortable tunnel like hall.
+b522:  a gloomy empty land with dreary hills ahead.
+b530:  a hidden path with trolls foot prints[0x16]
+b53e:  the trolls cave.
+b543:  a hard dangerous path in the misty mountains.
+b550:  a narrow{5} place with a dreadful drop into a dim valley.
+b562:  a narrow dangerous path.
+b569:  a large dry cave which is quite comfortable.
+b577:  a big cavern with torches along the walls[0x16]
+b588:  the brink of a deep dark under ground lake.
+b597:  the goblins gate.
+b59c:  the gate to mirkwood.
+b5a2:  a bewitched gloomy place surrounded by thick tree(s|d|ing|es) |b.
+b5b3:  a place of black spiders[0x16]
+b5bd:  a forest of tangled smothering tree(s|d|ing|es)[0x16]
+b5c8:  an elvish clearing with levelled ground and logs.
+b5d6:  a dark dungeon in the elvenkings halls.
+b5e1:  the cellar where the king keeps his barrels of wine.
+b5f3:  a wooden town in the middle of long lake.
+b601:  a strong river: the current is now too strong to move against.
+b615:  a bleak barren land that was once green.
+b624:  the ruins of the town of dale.
+b62e:  the front gate of the lonely mountain.
+b639:  the west side of ravenhill.
+b641:  the halls where the dragon sleep(s|d|ing|es)[0x16]
+b64b:  a little steep bay, still and quiet, with an over hanging cliff.
+b662:  a smooth straight passage.
+b669:  the lonely mountain.
+b66e:  the west[0x02][0x04] the east bank of a black river.
